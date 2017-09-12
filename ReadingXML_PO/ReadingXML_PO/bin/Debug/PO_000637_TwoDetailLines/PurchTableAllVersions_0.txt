@@ -1,0 +1,81 @@
+PaymSpec	1	
+PriceGroupId	1	
+Payment	1	Net30	
+InterCompanyDirectDelivery	1	No	
+WorkerPurchPlacer	1	22565421006	
+DocumentStatus	1	PurchaseOrder	
+Requester	1	22565421012	
+DlvMode	1	
+OneTimeVendor	1	No	
+CashDisc	1	
+InventLocationId	1	
+InterCompanyOrder	1	No	
+InterCompanyOriginalCustAccount	1	
+VATNum	1	
+URL	1	
+PurchaseType	1	Purch	
+VendGroup	1	10	
+SourceDocumentHeader	1	52565577156	
+BankCentralBankPurposeCode	1	
+DeliveryDate	1	2015-03-31	
+SourceDocumentLine	1	5637146083	
+VendorRef	1	
+ItemBuyerGroupId	1	
+EndDisc	1	
+CountyOrigDest	1	
+InterCompanySalesId	1	
+InterCompanyCompanyId	1	
+ReturnItemNum	1	
+Email	1	
+SettleVoucher	1	None	
+StatProcId	1	
+BankCentralBankPurposeText	1	
+VersionDateTime	1	2015-03-10T12:48:58Z	
+IsEncumbranceRequired	1	No	
+MarkupGroup	1	
+LanguageId	1	en-us	
+AddressRefTableId	1	41	
+PurchPoolId	1	01	
+PurchId	1	000637	
+ReqAttention	1	Building B - 5031	
+PurchTableVersionRecId	1	35637183640	
+Listcode	1	IncludeNot	
+ReturnReasonCodeId	1	
+DlvTerm	1	
+PaymentSched	1	
+MultiLineDisc	1	
+LineDisc	1	
+InterCompanyCustPurchOrderFormNum	1	
+PurchName	1	Active Systems	
+InterCompanyOriginalSalesId	1	
+PurchStatus	1	Backorder	
+InclTax	1	No	
+DocumentState	1	Confirmed	
+BankDocumentType	1	None	
+PaymMode	1	
+Port	1	
+TaxGroup	1	
+OrderAccount	1	000001	
+InterCompanyAllowIndirectCreation	1	No	
+DeliveryName	1	Contoso Entertainment System USA	
+DefaultDimension	1	
+ReturnReplacementCreated	1	No	
+AutoSummaryModuleType	1	Vend	
+DeliveryPostalAddress	1	52565469633	
+ContactPersonId	1	
+ProjId	1	
+FreightZone	1	
+Transport	1	
+AddressRefRecId	1	22565422580	
+AccountingDate	1	2015-03-31	
+FreightSlipType	1	None	
+TransactionCode	1	
+EnterpriseNumber	1	
+NumberSequenceGroup	1	
+CurrencyCode	1	USD	
+PostingProfile	1	GEN	
+RecId	1	35637162589	
+InterCompanyOrigin	1	Source	
+InventSiteId	1	
+InvoiceAccount	1	000001	
+DeliveryType	1	None	

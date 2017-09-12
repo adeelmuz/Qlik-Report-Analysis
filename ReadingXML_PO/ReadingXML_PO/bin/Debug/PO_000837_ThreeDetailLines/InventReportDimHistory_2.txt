@@ -1,0 +1,7 @@
+TransactionLogType	1	PurchPurchaseOrder	
+InventTransId	1	012912	
+InventDimId	1	000072	
+TransRefId	1	000037	
+Qty	1	1.00	
+RecId	1	35637830604	
+RecVersion	1	1	

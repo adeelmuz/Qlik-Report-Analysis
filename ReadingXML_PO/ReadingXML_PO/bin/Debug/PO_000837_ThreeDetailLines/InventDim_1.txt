@@ -1,0 +1,17 @@
+InventBatchId	1	
+ConfigId	1	
+WMSLocationId	1	
+InventProfileId_RU	1	
+InventStatusId	1	
+InventLocationId	1	13	
+InventColorId	1	Black	
+WMSPalletId	1	
+InventDimId	1	000252	
+InventSizeId	1	
+InventGTDId_RU	1	
+InventSerialId	1	
+InventOwnerId_RU	1	
+LicensePlateId	1	
+InventSiteId	1	1	
+RecId	1	22565428067	
+InventStyleId	1	

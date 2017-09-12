@@ -1,0 +1,630 @@
+﻿<AxdPurchaseRequisition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DocPurpose xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/PurchaseRequisition">Original</DocPurpose>
+  <SenderId xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/PurchaseRequisition">USMF</SenderId>
+  <VendPurchOrderJour xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/PurchaseRequisition" class="entity">
+    <_DocumentHash>00e914a97bb689192f7384b708c3036b</_DocumentHash>
+    <Amount>421.65</Amount>
+    <AmountPurchaseOrder>Yes</AmountPurchaseOrder>
+    <ConfirmingPO xsi:nil="true" />
+    <CountryRegionId xsi:nil="true" />
+    <DeliveryName>Contoso Entertainment System USA</DeliveryName>
+    <ExchRate>100.000000000000</ExchRate>
+    <InterCompanyPosted>No</InterCompanyPosted>
+    <IsPrepay>No</IsPrepay>
+    <OrderAccount>000001</OrderAccount>
+    <ParmId>011085</ParmId>
+    <PurchaseOrderId>000037</PurchaseOrderId>
+    <PurchaseOrderVoucher xsi:nil="true" />
+    <PurchId>000837</PurchId>
+    <PurchOrderDate>2015-03-17</PurchOrderDate>
+    <PurchOrderDocNum>000837-1</PurchOrderDocNum>
+    <Qty>3.00</Qty>
+    <RecId>35637183643</RecId>
+    <RecVersion>1</RecVersion>
+    <SalesOrderbalance>421.65</SalesOrderbalance>
+    <Triangulation>No</Triangulation>
+    <PurchTableAllVersions class="entity">
+      <AccountingDate>2015-03-17</AccountingDate>
+      <AddressRefRecId>22565422580</AddressRefRecId>
+      <AddressRefTableId>41</AddressRefTableId>
+      <AutoSummaryModuleType>Vend</AutoSummaryModuleType>
+      <BankCentralBankPurposeCode xsi:nil="true" />
+      <BankCentralBankPurposeText xsi:nil="true" />
+      <BankDocumentType>None</BankDocumentType>
+      <CashDisc xsi:nil="true" />
+      <ContactPersonId xsi:nil="true" />
+      <CountyOrigDest xsi:nil="true" />
+      <CurrencyCode>USD</CurrencyCode>
+      <DefaultDimension xsi:nil="true" />
+      <DeliveryDate>2015-03-17</DeliveryDate>
+      <DeliveryName>Contoso Entertainment System USA</DeliveryName>
+      <DeliveryPostalAddress>52565469633</DeliveryPostalAddress>
+      <DeliveryType>None</DeliveryType>
+      <DlvMode>30</DlvMode>
+      <DlvTerm>FOB</DlvTerm>
+      <DocumentState>Confirmed</DocumentState>
+      <DocumentStatus>PurchaseOrder</DocumentStatus>
+      <Email xsi:nil="true" />
+      <EndDisc xsi:nil="true" />
+      <EnterpriseNumber xsi:nil="true" />
+      <FreightSlipType>None</FreightSlipType>
+      <FreightZone xsi:nil="true" />
+      <InclTax>No</InclTax>
+      <InterCompanyAllowIndirectCreation>No</InterCompanyAllowIndirectCreation>
+      <InterCompanyCompanyId xsi:nil="true" />
+      <InterCompanyCustPurchOrderFormNum xsi:nil="true" />
+      <InterCompanyDirectDelivery>No</InterCompanyDirectDelivery>
+      <InterCompanyOrder>No</InterCompanyOrder>
+      <InterCompanyOrigin>Source</InterCompanyOrigin>
+      <InterCompanyOriginalCustAccount xsi:nil="true" />
+      <InterCompanyOriginalSalesId xsi:nil="true" />
+      <InterCompanySalesId xsi:nil="true" />
+      <InventLocationId xsi:nil="true" />
+      <InventSiteId xsi:nil="true" />
+      <InvoiceAccount>000001</InvoiceAccount>
+      <IsEncumbranceRequired>No</IsEncumbranceRequired>
+      <ItemBuyerGroupId xsi:nil="true" />
+      <LanguageId>en-us</LanguageId>
+      <LineDisc xsi:nil="true" />
+      <Listcode>IncludeNot</Listcode>
+      <MarkupGroup xsi:nil="true" />
+      <MultiLineDisc xsi:nil="true" />
+      <NumberSequenceGroup xsi:nil="true" />
+      <OneTimeVendor>No</OneTimeVendor>
+      <OrderAccount>000001</OrderAccount>
+      <Payment>Net30</Payment>
+      <PaymentSched xsi:nil="true" />
+      <PaymMode xsi:nil="true" />
+      <PaymSpec xsi:nil="true" />
+      <Port xsi:nil="true" />
+      <PostingProfile>GEN</PostingProfile>
+      <PriceGroupId xsi:nil="true" />
+      <ProjId xsi:nil="true" />
+      <PurchaseType>Purch</PurchaseType>
+      <PurchId>000837</PurchId>
+      <PurchName>Active Systems</PurchName>
+      <PurchPoolId>01</PurchPoolId>
+      <PurchStatus>Backorder</PurchStatus>
+      <PurchTableVersionRecId>35637183643</PurchTableVersionRecId>
+      <RecId>52565465241</RecId>
+      <ReqAttention>Building B - 5066</ReqAttention>
+      <Requester>22565420976</Requester>
+      <ReturnItemNum xsi:nil="true" />
+      <ReturnReasonCodeId xsi:nil="true" />
+      <ReturnReplacementCreated>No</ReturnReplacementCreated>
+      <SettleVoucher>None</SettleVoucher>
+      <SourceDocumentHeader>52565577158</SourceDocumentHeader>
+      <SourceDocumentLine>5637146088</SourceDocumentLine>
+      <StatProcId xsi:nil="true" />
+      <TaxGroup xsi:nil="true" />
+      <TransactionCode xsi:nil="true" />
+      <Transport xsi:nil="true" />
+      <URL xsi:nil="true" />
+      <VATNum xsi:nil="true" />
+      <VendGroup>10</VendGroup>
+      <VendorRef xsi:nil="true" />
+      <VersionDateTime>2015-03-17T08:01:54Z</VersionDateTime>
+      <WorkerPurchPlacer>22565420973</WorkerPurchPlacer>
+      <PurchTableHistoryAddress class="entity">
+        <_RecId_LogisticsPostalAddress>52565469633</_RecId_LogisticsPostalAddress>
+        <Address>123 Coffee Street
+Suite 300
+Redmond,WA 98052 
+USA</Address>
+        <Apartment_RU xsi:nil="true" />
+        <Building_RU xsi:nil="true" />
+        <BuildingCompliment xsi:nil="true" />
+        <City>Redmond</City>
+        <CountryCurrencyCode xsi:nil="true" />
+        <CountryRegionId>USA</CountryRegionId>
+        <County>KING</County>
+        <DistrictName xsi:nil="true" />
+        <ISOcode>US</ISOcode>
+        <IsPrivate>No</IsPrivate>
+        <Location>000000034</Location>
+        <LocationName>Contoso Entertainment System USA</LocationName>
+        <PostalAddress>52565469633</PostalAddress>
+        <PostalAddressRecId>52565469633</PostalAddressRecId>
+        <PostBox xsi:nil="true" />
+        <PrivateForParty xsi:nil="true" />
+        <RecId>52565469633</RecId>
+        <State>WA</State>
+        <Street>123 Coffee Street
+Suite 300</Street>
+        <StreetNumber xsi:nil="true" />
+        <TimeZone xsi:nil="true" />
+        <ValidFrom>2014-07-12T01:17:30Z</ValidFrom>
+        <ValidTo>2154-12-31T23:59:59Z</ValidTo>
+        <ZipCode>98052</ZipCode>
+      </PurchTableHistoryAddress>
+      <PurchLineAllVersions class="entity">
+        <ActivityNumber xsi:nil="true" />
+        <AddressRefRecId>22565421676</AddressRefRecId>
+        <AddressRefTableId>6064</AddressRefTableId>
+        <AssetBookId xsi:nil="true" />
+        <AssetGroup xsi:nil="true" />
+        <AssetId xsi:nil="true" />
+        <AssetTransTypePurch>Acquisition</AssetTransTypePurch>
+        <BarCode xsi:nil="true" />
+        <BarCodeType xsi:nil="true" />
+        <Blocked>No</Blocked>
+        <CaseTagging>No</CaseTagging>
+        <Complete>No</Complete>
+        <ConfirmedTaxWriteCode xsi:nil="true" />
+        <CountyOrigDest xsi:nil="true" />
+        <CovRef>None</CovRef>
+        <CreateFixedAsset>No</CreateFixedAsset>
+        <CurrencyCode>USD</CurrencyCode>
+        <CustomerRef xsi:nil="true" />
+        <CustPurchaseOrderFormNum xsi:nil="true" />
+        <DefaultDimension>
+          <Values xmlns="http://schemas.microsoft.com/dynamics/2008/01/sharedtypes">
+            <Value>
+              <Name>BusinessUnit</Name>
+              <Value>001</Value>
+            </Value>
+            <Value>
+              <Name>ItemGroup</Name>
+              <Value>Consume</Value>
+            </Value>
+          </Values>
+        </DefaultDimension>
+        <DeliveryDate>2015-03-17</DeliveryDate>
+        <DeliveryName>Site 1</DeliveryName>
+        <DeliveryPostalAddress>22565424050</DeliveryPostalAddress>
+        <DeliveryType>None</DeliveryType>
+        <ExternalItemId xsi:nil="true" />
+        <GSTHSTTaxType_CA>None</GSTHSTTaxType_CA>
+        <InterCompanyInventTransId xsi:nil="true" />
+        <InterCompanyOrigin>Source</InterCompanyOrigin>
+        <InventDimId>000252</InventDimId>
+        <InventRefId xsi:nil="true" />
+        <InventRefTransId xsi:nil="true" />
+        <InventTransId>012911</InventTransId>
+        <IsFinalized>No</IsFinalized>
+        <ItemBOMId xsi:nil="true" />
+        <ItemId>C0001</ItemId>
+        <ItemPBAId xsi:nil="true" />
+        <ItemRefType>None</ItemRefType>
+        <ItemRouteId xsi:nil="true" />
+        <ItemTagging>No</ItemTagging>
+        <LedgerDimension xsi:nil="true" />
+        <LineAmount>39.95</LineAmount>
+        <LineDeliveryType>OrderLine</LineDeliveryType>
+        <LineHeader xsi:nil="true" />
+        <LineNumber>1</LineNumber>
+        <MatchingPolicy>NoMatch</MatchingPolicy>
+        <Name>Microsoft Natural Keyboard Elite</Name>
+        <PalletTagging>No</PalletTagging>
+        <Port xsi:nil="true" />
+        <PriceUnit>1.00</PriceUnit>
+        <ProcurementCategory>22565423433</ProcurementCategory>
+        <ProjCategoryId xsi:nil="true" />
+        <ProjId xsi:nil="true" />
+        <ProjLinePropertyId xsi:nil="true" />
+        <ProjSalesCurrencyId xsi:nil="true" />
+        <ProjSalesUnitId xsi:nil="true" />
+        <ProjTaxGroupId xsi:nil="true" />
+        <ProjTaxItemGroupId xsi:nil="true" />
+        <ProjTransId xsi:nil="true" />
+        <PurchaseType>Purch</PurchaseType>
+        <PurchId>000837</PurchId>
+        <PurchPrice>39.95</PurchPrice>
+        <PurchQty>1.00</PurchQty>
+        <PurchReqId xsi:nil="true" />
+        <PurchReqLineRefId>{00000000-0000-0000-0000-000000000000}</PurchReqLineRefId>
+        <PurchStatus>Backorder</PurchStatus>
+        <PurchTableVersionRecId>35637183643</PurchTableVersionRecId>
+        <PurchUnit>ea</PurchUnit>
+        <RecId>5637146081</RecId>
+        <RemainPurchPhysical>1.00</RemainPurchPhysical>
+        <ReqAttention xsi:nil="true" />
+        <ReqPlanIdSched xsi:nil="true" />
+        <ReqPOId xsi:nil="true" />
+        <Requester>22565420976</Requester>
+        <ReturnActionId xsi:nil="true" />
+        <ReturnDispositionCodeId xsi:nil="true" />
+        <ReturnStatus>None</ReturnStatus>
+        <Scrap>No</Scrap>
+        <SourceDocumentLine>5637146089</SourceDocumentLine>
+        <StatProcId xsi:nil="true" />
+        <StatTriangularDeal>No</StatTriangularDeal>
+        <StockedProduct>No</StockedProduct>
+        <Tax1099State xsi:nil="true" />
+        <TaxAutogenerated>No</TaxAutogenerated>
+        <TaxGroup xsi:nil="true" />
+        <TaxItemGroup>ALL</TaxItemGroup>
+        <TaxWithholdGroup_TH xsi:nil="true" />
+        <TransactionCode xsi:nil="true" />
+        <Transport xsi:nil="true" />
+        <VendAccount>000001</VendAccount>
+        <VendGroup>10</VendGroup>
+        <VersionDateTime>2015-03-17T08:01:54Z</VersionDateTime>
+        <PurchLineHistoryAddress class="entity">
+          <_RecId_LogisticsPostalAddress>22565424050</_RecId_LogisticsPostalAddress>
+          <Address>213 South Street, Gate 1
+Galvin,WA 98544 
+USA</Address>
+          <Apartment_RU xsi:nil="true" />
+          <Building_RU xsi:nil="true" />
+          <BuildingCompliment xsi:nil="true" />
+          <City>Galvin</City>
+          <CountryCurrencyCode xsi:nil="true" />
+          <CountryRegionId>USA</CountryRegionId>
+          <County>ASOTIN</County>
+          <DistrictName xsi:nil="true" />
+          <ISOcode>US</ISOcode>
+          <IsPrivate>No</IsPrivate>
+          <Location>000001098</Location>
+          <LocationName>Site 1</LocationName>
+          <PostalAddress>22565424050</PostalAddress>
+          <PostalAddressRecId>22565424050</PostalAddressRecId>
+          <PostBox xsi:nil="true" />
+          <PrivateForParty xsi:nil="true" />
+          <RecId>22565424050</RecId>
+          <State>WA</State>
+          <Street>213 South Street, Gate 1</Street>
+          <StreetNumber xsi:nil="true" />
+          <TimeZone xsi:nil="true" />
+          <ValidFrom>2009-01-02T07:57:49Z</ValidFrom>
+          <ValidTo>2154-12-31T23:59:59Z</ValidTo>
+          <ZipCode>98544</ZipCode>
+        </PurchLineHistoryAddress>
+        <InventReportDimHistory class="entity">
+          <InventDimId>000252</InventDimId>
+          <InventTransId>012911</InventTransId>
+          <Qty>1.00</Qty>
+          <RecId>35637830603</RecId>
+          <RecVersion>1</RecVersion>
+          <TransactionLogType>PurchPurchaseOrder</TransactionLogType>
+          <TransRefId>000037</TransRefId>
+          <InventDim class="entity">
+            <ConfigId xsi:nil="true" />
+            <InventBatchId xsi:nil="true" />
+            <InventColorId>Black</InventColorId>
+            <InventDimId>000252</InventDimId>
+            <InventGTDId_RU xsi:nil="true" />
+            <InventLocationId>13</InventLocationId>
+            <InventOwnerId_RU xsi:nil="true" />
+            <InventProfileId_RU xsi:nil="true" />
+            <InventSerialId xsi:nil="true" />
+            <InventSiteId>1</InventSiteId>
+            <InventSizeId xsi:nil="true" />
+            <InventStatusId xsi:nil="true" />
+            <InventStyleId xsi:nil="true" />
+            <LicensePlateId xsi:nil="true" />
+            <RecId>22565428067</RecId>
+            <WMSLocationId xsi:nil="true" />
+            <WMSPalletId xsi:nil="true" />
+          </InventDim>
+        </InventReportDimHistory>
+      </PurchLineAllVersions>
+      <PurchLineAllVersions class="entity">
+        <ActivityNumber xsi:nil="true" />
+        <AddressRefRecId>22565421676</AddressRefRecId>
+        <AddressRefTableId>6064</AddressRefTableId>
+        <AssetBookId xsi:nil="true" />
+        <AssetGroup xsi:nil="true" />
+        <AssetId xsi:nil="true" />
+        <AssetTransTypePurch>Acquisition</AssetTransTypePurch>
+        <BarCode xsi:nil="true" />
+        <BarCodeType xsi:nil="true" />
+        <Blocked>No</Blocked>
+        <CaseTagging>No</CaseTagging>
+        <Complete>No</Complete>
+        <ConfirmedTaxWriteCode xsi:nil="true" />
+        <CountyOrigDest xsi:nil="true" />
+        <CovRef>None</CovRef>
+        <CreateFixedAsset>No</CreateFixedAsset>
+        <CurrencyCode>USD</CurrencyCode>
+        <CustomerRef xsi:nil="true" />
+        <CustPurchaseOrderFormNum xsi:nil="true" />
+        <DefaultDimension>
+          <Values xmlns="http://schemas.microsoft.com/dynamics/2008/01/sharedtypes">
+            <Value>
+              <Name>BusinessUnit</Name>
+              <Value>001</Value>
+            </Value>
+            <Value>
+              <Name>ItemGroup</Name>
+              <Value>Audio</Value>
+            </Value>
+          </Values>
+        </DefaultDimension>
+        <DeliveryDate>2015-03-17</DeliveryDate>
+        <DeliveryName>Site 1</DeliveryName>
+        <DeliveryPostalAddress>22565424050</DeliveryPostalAddress>
+        <DeliveryType>None</DeliveryType>
+        <ExternalItemId xsi:nil="true" />
+        <GSTHSTTaxType_CA>None</GSTHSTTaxType_CA>
+        <InterCompanyInventTransId xsi:nil="true" />
+        <InterCompanyOrigin>Source</InterCompanyOrigin>
+        <InventDimId>000072</InventDimId>
+        <InventRefId xsi:nil="true" />
+        <InventRefTransId xsi:nil="true" />
+        <InventTransId>012912</InventTransId>
+        <IsFinalized>No</IsFinalized>
+        <ItemBOMId xsi:nil="true" />
+        <ItemId>L0052</ItemId>
+        <ItemPBAId xsi:nil="true" />
+        <ItemRefType>None</ItemRefType>
+        <ItemRouteId xsi:nil="true" />
+        <ItemTagging>No</ItemTagging>
+        <LedgerDimension xsi:nil="true" />
+        <LineAmount>302.71</LineAmount>
+        <LineDeliveryType>OrderLine</LineDeliveryType>
+        <LineHeader xsi:nil="true" />
+        <LineNumber>2</LineNumber>
+        <MatchingPolicy>NoMatch</MatchingPolicy>
+        <Name>Power Supply - UK</Name>
+        <PalletTagging>No</PalletTagging>
+        <Port xsi:nil="true" />
+        <PriceUnit>1.00</PriceUnit>
+        <ProjCategoryId xsi:nil="true" />
+        <ProjId xsi:nil="true" />
+        <ProjLinePropertyId xsi:nil="true" />
+        <ProjSalesCurrencyId xsi:nil="true" />
+        <ProjSalesUnitId xsi:nil="true" />
+        <ProjTaxGroupId xsi:nil="true" />
+        <ProjTaxItemGroupId xsi:nil="true" />
+        <ProjTransId xsi:nil="true" />
+        <PurchaseType>Purch</PurchaseType>
+        <PurchId>000837</PurchId>
+        <PurchPrice>302.71</PurchPrice>
+        <PurchQty>1.00</PurchQty>
+        <PurchReqId xsi:nil="true" />
+        <PurchReqLineRefId>{00000000-0000-0000-0000-000000000000}</PurchReqLineRefId>
+        <PurchStatus>Backorder</PurchStatus>
+        <PurchTableVersionRecId>35637183643</PurchTableVersionRecId>
+        <PurchUnit>ea</PurchUnit>
+        <QtyOrdered>1.00</QtyOrdered>
+        <RecId>5637146082</RecId>
+        <RemainInventPhysical>1.00</RemainInventPhysical>
+        <RemainPurchPhysical>1.00</RemainPurchPhysical>
+        <ReqAttention xsi:nil="true" />
+        <ReqPlanIdSched xsi:nil="true" />
+        <ReqPOId xsi:nil="true" />
+        <Requester>22565420976</Requester>
+        <ReturnActionId xsi:nil="true" />
+        <ReturnDispositionCodeId xsi:nil="true" />
+        <ReturnStatus>None</ReturnStatus>
+        <Scrap>No</Scrap>
+        <SourceDocumentLine>5637146090</SourceDocumentLine>
+        <StatProcId xsi:nil="true" />
+        <StatTriangularDeal>No</StatTriangularDeal>
+        <StockedProduct>Yes</StockedProduct>
+        <Tax1099State xsi:nil="true" />
+        <TaxAutogenerated>No</TaxAutogenerated>
+        <TaxGroup xsi:nil="true" />
+        <TaxItemGroup>AU/VI</TaxItemGroup>
+        <TaxWithholdGroup_TH xsi:nil="true" />
+        <TransactionCode xsi:nil="true" />
+        <Transport xsi:nil="true" />
+        <VendAccount>000001</VendAccount>
+        <VendGroup>10</VendGroup>
+        <VersionDateTime>2015-03-17T08:01:54Z</VersionDateTime>
+        <PurchLineHistoryAddress class="entity">
+          <_RecId_LogisticsPostalAddress>22565424050</_RecId_LogisticsPostalAddress>
+          <Address>213 South Street, Gate 1
+Galvin,WA 98544 
+USA</Address>
+          <Apartment_RU xsi:nil="true" />
+          <Building_RU xsi:nil="true" />
+          <BuildingCompliment xsi:nil="true" />
+          <City>Galvin</City>
+          <CountryCurrencyCode xsi:nil="true" />
+          <CountryRegionId>USA</CountryRegionId>
+          <County>ASOTIN</County>
+          <DistrictName xsi:nil="true" />
+          <ISOcode>US</ISOcode>
+          <IsPrivate>No</IsPrivate>
+          <Location>000001098</Location>
+          <LocationName>Site 1</LocationName>
+          <PostalAddress>22565424050</PostalAddress>
+          <PostalAddressRecId>22565424050</PostalAddressRecId>
+          <PostBox xsi:nil="true" />
+          <PrivateForParty xsi:nil="true" />
+          <RecId>22565424050</RecId>
+          <State>WA</State>
+          <Street>213 South Street, Gate 1</Street>
+          <StreetNumber xsi:nil="true" />
+          <TimeZone xsi:nil="true" />
+          <ValidFrom>2009-01-02T07:57:49Z</ValidFrom>
+          <ValidTo>2154-12-31T23:59:59Z</ValidTo>
+          <ZipCode>98544</ZipCode>
+        </PurchLineHistoryAddress>
+        <InventReportDimHistory class="entity">
+          <InventDimId>000072</InventDimId>
+          <InventTransId>012912</InventTransId>
+          <Qty>1.00</Qty>
+          <RecId>35637830604</RecId>
+          <RecVersion>1</RecVersion>
+          <TransactionLogType>PurchPurchaseOrder</TransactionLogType>
+          <TransRefId>000037</TransRefId>
+          <InventDim class="entity">
+            <ConfigId xsi:nil="true" />
+            <InventBatchId xsi:nil="true" />
+            <InventColorId xsi:nil="true" />
+            <InventDimId>000072</InventDimId>
+            <InventGTDId_RU xsi:nil="true" />
+            <InventLocationId>13</InventLocationId>
+            <InventOwnerId_RU xsi:nil="true" />
+            <InventProfileId_RU xsi:nil="true" />
+            <InventSerialId xsi:nil="true" />
+            <InventSiteId>1</InventSiteId>
+            <InventSizeId xsi:nil="true" />
+            <InventStatusId xsi:nil="true" />
+            <InventStyleId xsi:nil="true" />
+            <LicensePlateId xsi:nil="true" />
+            <RecId>22565423551</RecId>
+            <WMSLocationId xsi:nil="true" />
+            <WMSPalletId xsi:nil="true" />
+          </InventDim>
+        </InventReportDimHistory>
+      </PurchLineAllVersions>
+      <PurchLineAllVersions class="entity">
+        <ActivityNumber xsi:nil="true" />
+        <AddressRefRecId>22565421676</AddressRefRecId>
+        <AddressRefTableId>6064</AddressRefTableId>
+        <AssetBookId xsi:nil="true" />
+        <AssetGroup xsi:nil="true" />
+        <AssetId xsi:nil="true" />
+        <AssetTransTypePurch>Acquisition</AssetTransTypePurch>
+        <BarCode xsi:nil="true" />
+        <BarCodeType xsi:nil="true" />
+        <Blocked>No</Blocked>
+        <CaseTagging>No</CaseTagging>
+        <Complete>No</Complete>
+        <ConfirmedTaxWriteCode xsi:nil="true" />
+        <CountyOrigDest xsi:nil="true" />
+        <CovRef>None</CovRef>
+        <CreateFixedAsset>No</CreateFixedAsset>
+        <CurrencyCode>USD</CurrencyCode>
+        <CustomerRef xsi:nil="true" />
+        <CustPurchaseOrderFormNum xsi:nil="true" />
+        <DefaultDimension>
+          <Values xmlns="http://schemas.microsoft.com/dynamics/2008/01/sharedtypes">
+            <Value>
+              <Name>BusinessUnit</Name>
+              <Value>001</Value>
+            </Value>
+            <Value>
+              <Name>ItemGroup</Name>
+              <Value>AudioRM</Value>
+            </Value>
+          </Values>
+        </DefaultDimension>
+        <DeliveryDate>2015-03-23</DeliveryDate>
+        <DeliveryName>Site 1</DeliveryName>
+        <DeliveryPostalAddress>22565424050</DeliveryPostalAddress>
+        <DeliveryType>None</DeliveryType>
+        <ExternalItemId xsi:nil="true" />
+        <GSTHSTTaxType_CA>None</GSTHSTTaxType_CA>
+        <InterCompanyInventTransId xsi:nil="true" />
+        <InterCompanyOrigin>Source</InterCompanyOrigin>
+        <InventDimId>000131</InventDimId>
+        <InventRefId xsi:nil="true" />
+        <InventRefTransId xsi:nil="true" />
+        <InventTransId>013011</InventTransId>
+        <IsFinalized>No</IsFinalized>
+        <ItemBOMId xsi:nil="true" />
+        <ItemId>M0002</ItemId>
+        <ItemPBAId xsi:nil="true" />
+        <ItemRefType>None</ItemRefType>
+        <ItemRouteId xsi:nil="true" />
+        <ItemTagging>No</ItemTagging>
+        <LedgerDimension xsi:nil="true" />
+        <LineAmount>78.99</LineAmount>
+        <LineDeliveryType>OrderLine</LineDeliveryType>
+        <LineHeader xsi:nil="true" />
+        <LineNumber>3</LineNumber>
+        <MatchingPolicy>NoMatch</MatchingPolicy>
+        <Name>Mid-Range Speaker Unit</Name>
+        <PalletTagging>No</PalletTagging>
+        <Port xsi:nil="true" />
+        <PriceUnit>1.00</PriceUnit>
+        <ProjCategoryId xsi:nil="true" />
+        <ProjId xsi:nil="true" />
+        <ProjLinePropertyId xsi:nil="true" />
+        <ProjSalesCurrencyId xsi:nil="true" />
+        <ProjSalesUnitId xsi:nil="true" />
+        <ProjTaxGroupId xsi:nil="true" />
+        <ProjTaxItemGroupId xsi:nil="true" />
+        <ProjTransId xsi:nil="true" />
+        <PurchaseType>Purch</PurchaseType>
+        <PurchId>000837</PurchId>
+        <PurchPrice>78.99</PurchPrice>
+        <PurchQty>1.00</PurchQty>
+        <PurchReqId xsi:nil="true" />
+        <PurchReqLineRefId>{00000000-0000-0000-0000-000000000000}</PurchReqLineRefId>
+        <PurchStatus>Backorder</PurchStatus>
+        <PurchTableVersionRecId>35637183643</PurchTableVersionRecId>
+        <PurchUnit>ea</PurchUnit>
+        <QtyOrdered>1.00</QtyOrdered>
+        <RecId>5637146083</RecId>
+        <RemainInventPhysical>1.00</RemainInventPhysical>
+        <RemainPurchPhysical>1.00</RemainPurchPhysical>
+        <ReqAttention xsi:nil="true" />
+        <ReqPlanIdSched xsi:nil="true" />
+        <ReqPOId xsi:nil="true" />
+        <Requester>22565420976</Requester>
+        <ReturnActionId xsi:nil="true" />
+        <ReturnDispositionCodeId xsi:nil="true" />
+        <ReturnStatus>None</ReturnStatus>
+        <Scrap>No</Scrap>
+        <SourceDocumentLine>5637146091</SourceDocumentLine>
+        <StatProcId xsi:nil="true" />
+        <StatTriangularDeal>No</StatTriangularDeal>
+        <StockedProduct>Yes</StockedProduct>
+        <Tax1099State xsi:nil="true" />
+        <TaxAutogenerated>No</TaxAutogenerated>
+        <TaxGroup xsi:nil="true" />
+        <TaxItemGroup>AU/VI</TaxItemGroup>
+        <TaxWithholdGroup_TH xsi:nil="true" />
+        <TransactionCode xsi:nil="true" />
+        <Transport xsi:nil="true" />
+        <VendAccount>000001</VendAccount>
+        <VendGroup>10</VendGroup>
+        <VersionDateTime>2015-03-17T08:01:54Z</VersionDateTime>
+        <PurchLineHistoryAddress class="entity">
+          <_RecId_LogisticsPostalAddress>22565424050</_RecId_LogisticsPostalAddress>
+          <Address>213 South Street, Gate 1
+Galvin,WA 98544 
+USA</Address>
+          <Apartment_RU xsi:nil="true" />
+          <Building_RU xsi:nil="true" />
+          <BuildingCompliment xsi:nil="true" />
+          <City>Galvin</City>
+          <CountryCurrencyCode xsi:nil="true" />
+          <CountryRegionId>USA</CountryRegionId>
+          <County>ASOTIN</County>
+          <DistrictName xsi:nil="true" />
+          <ISOcode>US</ISOcode>
+          <IsPrivate>No</IsPrivate>
+          <Location>000001098</Location>
+          <LocationName>Site 1</LocationName>
+          <PostalAddress>22565424050</PostalAddress>
+          <PostalAddressRecId>22565424050</PostalAddressRecId>
+          <PostBox xsi:nil="true" />
+          <PrivateForParty xsi:nil="true" />
+          <RecId>22565424050</RecId>
+          <State>WA</State>
+          <Street>213 South Street, Gate 1</Street>
+          <StreetNumber xsi:nil="true" />
+          <TimeZone xsi:nil="true" />
+          <ValidFrom>2009-01-02T07:57:49Z</ValidFrom>
+          <ValidTo>2154-12-31T23:59:59Z</ValidTo>
+          <ZipCode>98544</ZipCode>
+        </PurchLineHistoryAddress>
+        <InventReportDimHistory class="entity">
+          <InventDimId>000131</InventDimId>
+          <InventTransId>013011</InventTransId>
+          <Qty>1.00</Qty>
+          <RecId>35637830605</RecId>
+          <RecVersion>1</RecVersion>
+          <TransactionLogType>PurchPurchaseOrder</TransactionLogType>
+          <TransRefId>000037</TransRefId>
+          <InventDim class="entity">
+            <ConfigId xsi:nil="true" />
+            <InventBatchId xsi:nil="true" />
+            <InventColorId xsi:nil="true" />
+            <InventDimId>000131</InventDimId>
+            <InventGTDId_RU xsi:nil="true" />
+            <InventLocationId>11</InventLocationId>
+            <InventOwnerId_RU xsi:nil="true" />
+            <InventProfileId_RU xsi:nil="true" />
+            <InventSerialId xsi:nil="true" />
+            <InventSiteId>1</InventSiteId>
+            <InventSizeId xsi:nil="true" />
+            <InventStatusId xsi:nil="true" />
+            <InventStyleId xsi:nil="true" />
+            <LicensePlateId xsi:nil="true" />
+            <RecId>22565423809</RecId>
+            <WMSLocationId>11</WMSLocationId>
+            <WMSPalletId xsi:nil="true" />
+          </InventDim>
+        </InventReportDimHistory>
+      </PurchLineAllVersions>
+    </PurchTableAllVersions>
+  </VendPurchOrderJour>
+</AxdPurchaseRequisition>

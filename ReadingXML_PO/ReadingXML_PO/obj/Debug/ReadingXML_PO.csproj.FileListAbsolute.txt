@@ -1,0 +1,20 @@
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\bin\Debug\ReadingXML_PO.exe.config
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\bin\Debug\ReadingXML_PO.exe
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\bin\Debug\ReadingXML_PO.pdb
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.csprojResolveAssemblyReference.cache
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.Form1.resources
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.Properties.Resources.resources
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.csproj.GenerateResource.Cache
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.exe
+c:\users\adeel.muzaffar\documents\visual studio 2012\Projects\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.pdb
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\bin\Debug\ReadingXML_PO.exe.config
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.exe
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.pdb
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\bin\Debug\ReadingXML_PO.exe
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\bin\Debug\ReadingXML_PO.pdb
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.csprojResolveAssemblyReference.cache
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.Form1.resources
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.Properties.Resources.resources
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.csproj.GenerateResource.Cache
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.Form2.resources
+C:\Users\adeel.muzaffar.SYSTEMS\Desktop\ReadingXML_PO\ReadingXML_PO\obj\Debug\ReadingXML_PO.csproj.ResolveComReference.cache

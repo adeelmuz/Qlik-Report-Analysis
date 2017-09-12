@@ -1,0 +1,26 @@
+StreetNumber	1	
+IsPrivate	1	No	
+County	1	KING	
+Location	1	000000034	
+ISOcode	1	US	
+TimeZone	1	
+BuildingCompliment	1	
+PrivateForParty	1	
+ZipCode	1	98052	
+Building_RU	1	
+State	1	WA	
+RecId	1	52565469633	
+DistrictName	1	
+ValidFrom	1	2014-07-12T01:17:30Z	
+Address	1	123 Coffee Street,Suite 300,Redmond,WA 98052 ,USA	
+PostBox	1	
+_RecId_LogisticsPostalAddress	1	52565469633	
+CountryCurrencyCode	1	
+LocationName	1	Contoso Entertainment System USA	
+CountryRegionId	1	USA	
+City	1	Redmond	
+PostalAddressRecId	1	52565469633	
+PostalAddress	1	52565469633	
+Apartment_RU	1	
+Street	1	123 Coffee Street,Suite 300	
+ValidTo	1	2154-12-31T23:59:59Z	

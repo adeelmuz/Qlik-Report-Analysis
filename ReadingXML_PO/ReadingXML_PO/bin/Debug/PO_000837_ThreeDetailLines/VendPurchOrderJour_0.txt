@@ -1,0 +1,225 @@
+Envelop	Sr. No	Fields	Values	Is Lookup	Used	Mapping
+AxdPurchaseRequisition	1	DocPurpose	Original			
+	2	SenderId	USMF			
+"VendPurchOrderJour
+(PO Journal Header)"	1	_DocumentHash	00e914a97bb689192f7384b708c3036b			
+	2	Amount	421.65			
+	3	AmountPurchaseOrder	Yes			
+	4	ConfirmingPO				
+	5	CountryRegionId				
+	6	DeliveryName	Contoso Entertainment System USA			
+	7	ExchRate	100.000000000000			
+	8	InterCompanyPosted	No			
+	9	IsPrepay	No			
+	10	OrderAccount	000001			
+	11	ParmId	011085			
+	12	PurchaseOrderId	000037			
+	13	PurchaseOrderVoucher				
+	14	PurchId	000837			
+	15	PurchOrderDate	2015-03-17			
+	16	PurchOrderDocNum	000837-1			
+	17	Qty	3.00			
+	18	RecId	35637183643			
+	19	RecVersion	1			
+	20	SalesOrderbalance	421.65			
+	21	Triangulation	No			
+"PurchTableAllVersions
+(PO Header)"	1	AccountingDate	2015-03-17			
+	2	AddressRefRecId	22565422580			
+	3	AddressRefTableId	41			
+	4	AutoSummaryModuleType	Vend			
+	5	BankCentralBankPurposeCode				
+	6	BankCentralBankPurposeText				
+	7	BankDocumentType	None			
+	8	CashDisc				
+	9	ContactPersonId				
+	10	CountyOrigDest				
+	11	CurrencyCode	USD			
+	12	DefaultDimension				
+	13	DeliveryDate	2015-03-17			
+	14	DeliveryName	Contoso Entertainment System USA			
+	15	DeliveryPostalAddress	52565469633			
+	16	DeliveryType	None			
+	17	DlvMode	30			
+	18	DlvTerm	FOB			
+	19	DocumentState	Confirmed			
+	20	DocumentStatus	PurchaseOrder			
+	21	Email				
+	22	EndDisc				
+	23	EnterpriseNumber				
+	24	FreightSlipType	None			
+	25	FreightZone				
+	26	InclTax	No			
+	27	InterCompanyAllowIndirectCreation	No			
+	28	InterCompanyCompanyId				
+	29	InterCompanyCustPurchOrderFormNum				
+	30	InterCompanyDirectDelivery	No			
+	31	InterCompanyOrder	No			
+	32	InterCompanyOrigin	Source			
+	33	InterCompanyOriginalCustAccount				
+	34	InterCompanyOriginalSalesId				
+	35	InterCompanySalesId				
+	36	InventLocationId				
+	37	InventSiteId				
+	38	InvoiceAccount	000001			
+	39	IsEncumbranceRequired	No			
+	40	ItemBuyerGroupId				
+	41	LanguageId	en-us			
+	42	LineDisc				
+	43	Listcode	IncludeNot			
+	44	MarkupGroup				
+	45	MultiLineDisc				
+	46	NumberSequenceGroup				
+	47	OneTimeVendor	No			
+	48	OrderAccount	000001			
+	49	Payment	Net30			
+	50	PaymentSched				
+	51	PaymMode				
+	52	PaymSpec				
+	53	Port				
+	54	PostingProfile	GEN			
+	55	PriceGroupId				
+	56	ProjId				
+	57	PurchaseType	Purch			
+	58	PurchId	000837			
+	59	PurchName	Active Systems			
+	60	PurchPoolId	01			
+	61	PurchStatus	Backorder			
+	62	PurchTableVersionRecId	35637183643			
+	63	RecId	52565465241			
+	64	ReqAttention	Building B - 5066			
+	65	Requester	22565420976			
+	66	ReturnItemNum				
+	67	ReturnReasonCodeId				
+	68	ReturnReplacementCreated	No			
+	69	SettleVoucher	None			
+	70	SourceDocumentHeader	52565577158			
+	71	SourceDocumentLine	5637146088			
+	72	StatProcId				
+	73	TaxGroup				
+	74	TransactionCode				
+	75	Transport				
+	76	URL				
+	77	VATNum				
+	78	VendGroup	10			
+	79	VendorRef				
+	80	VersionDateTime	2015-03-17T08:01:54Z			
+	81	WorkerPurchPlacer	22565420973			
+"PurchTableHistoryAddress
+(OP Purchaser Address)"	1	_RecId_LogisticsPostalAddress	52565469633			
+	2	Address	"123 Coffee Street,Suite 300,Redmond,WA 98052 ,USA"			
+	3	Apartment_RU				
+	4	Building_RU				
+	5	BuildingCompliment				
+	6	City	Redmond			
+	7	CountryCurrencyCode				
+	8	CountryRegionId	USA			
+	9	County	KING			
+	10	DistrictName				
+	11	ISOcode	US			
+	12	IsPrivate	No			
+	13	Location	000000034			
+	14	LocationName	Contoso Entertainment System USA			
+	15	PostalAddress	52565469633			
+	16	PostalAddressRecId	52565469633			
+	17	PostBox				
+	18	PrivateForParty				
+	19	RecId	52565469633			
+	20	State	WA			
+	21	Street	"123 Coffee Street,Suite 300"			
+	22	StreetNumber				
+	23	TimeZone				
+	24	ValidFrom	2014-07-12T01:17:30Z			
+	25	ValidTo	2154-12-31T23:59:59Z			
+	26	ZipCode	98052			
+"PurchLineAllVersions
+(PO Detail Line)"	1	ActivityNumber				
+	2	AddressRefRecId	22565421676			
+	3	AddressRefTableId	6064			
+	4	AssetBookId				
+	5	AssetGroup				
+	6	AssetId				
+	7	AssetTransTypePurch	Acquisition			
+	8	BarCode				
+	9	BarCodeType				
+	10	Blocked	No			
+	11	CaseTagging	No			
+	12	Complete	No			
+	13	ConfirmedTaxWriteCode				
+	14	CountyOrigDest				
+	15	CovRef	None			
+	16	CreateFixedAsset	No			
+	17	CurrencyCode	USD			
+	18	CustomerRef				
+	19	CustPurchaseOrderFormNum				
+	20	DeliveryDate	2015-03-17			
+	21	DeliveryName	Site 1			
+	22	DeliveryPostalAddress	22565424050			
+	23	DeliveryType	None			
+	24	ExternalItemId				
+	25	GSTHSTTaxType_CA	None			
+	26	InterCompanyInventTransId				
+	27	InterCompanyOrigin	Source			
+	28	InventDimId	000252			
+	29	InventRefId				
+	30	InventRefTransId				
+	31	InventTransId	012911			
+	32	IsFinalized	No			
+	33	ItemBOMId				
+	34	ItemId	C0001			
+	35	ItemPBAId				
+	36	ItemRefType	None			
+	37	ItemRouteId				
+	38	ItemTagging	No			
+	39	LedgerDimension				
+	40	LineAmount	39.95			
+	41	LineDeliveryType	OrderLine			
+	42	LineHeader				
+	43	LineNumber	1			
+	44	MatchingPolicy	NoMatch			
+	45	Name	Microsoft Natural Keyboard Elite			
+	46	PalletTagging	No			
+	47	Port				
+	48	PriceUnit	1.00			
+	49	ProcurementCategory	22565423433			
+	50	ProjCategoryId				
+	51	ProjId				
+	52	ProjLinePropertyId				
+	53	ProjSalesCurrencyId				
+	54	ProjSalesUnitId				
+	55	ProjTaxGroupId				
+	56	ProjTaxItemGroupId				
+	57	ProjTransId				
+	58	PurchaseType	Purch			
+	59	PurchId	000837			
+	60	PurchPrice	39.95			
+	61	PurchQty	1.00			
+	62	PurchReqId				
+	63	PurchReqLineRefId	{00000000-0000-0000-0000-000000000000}			
+	64	PurchStatus	Backorder			
+	65	PurchTableVersionRecId	35637183643			
+	66	PurchUnit	ea			
+	67	RecId	5637146081			
+	68	RemainPurchPhysical	1.00			
+	69	ReqAttention				
+	70	ReqPlanIdSched				
+	71	ReqPOId				
+	72	Requester	22565420976			
+	73	ReturnActionId				
+	74	ReturnDispositionCodeId				
+	75	ReturnStatus	None			
+	76	Scrap	No			
+	77	SourceDocumentLine	5637146089			
+	78	StatProcId				
+	79	StatTriangularDeal	No			
+	80	StockedProduct	No			
+	81	Tax1099State				
+	82	TaxAutogenerated	No			
+	83	TaxGroup				
+	84	TaxItemGroup	ALL			
+	85	TaxWithholdGroup_TH				
+	86	TransactionCode				
+	87	Transport				
+	88	VendAccount	000001			
+	89	VendGroup	10			
+	90	VersionDateTime	2015-03-17T08:01:54Z			

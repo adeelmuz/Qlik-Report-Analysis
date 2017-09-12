@@ -1,0 +1,26 @@
+StreetNumber	1	
+IsPrivate	1	No	
+County	1	ASOTIN	
+Location	1	000001098	
+ISOcode	1	US	
+TimeZone	1	
+BuildingCompliment	1	
+PrivateForParty	1	
+ZipCode	1	98544	
+Building_RU	1	
+State	1	WA	
+RecId	1	22565424050	
+DistrictName	1	
+ValidFrom	1	2009-01-02T07:57:49Z	
+Address	1	213 South Street, Gate 1,Galvin,WA 98544 ,USA	
+PostBox	1	
+_RecId_LogisticsPostalAddress	1	22565424050	
+CountryCurrencyCode	1	
+LocationName	1	Site 1	
+CountryRegionId	1	USA	
+City	1	Galvin	
+PostalAddressRecId	1	22565424050	
+PostalAddress	1	22565424050	
+Apartment_RU	1	
+Street	1	213 South Street, Gate 1	
+ValidTo	1	2154-12-31T23:59:59Z	

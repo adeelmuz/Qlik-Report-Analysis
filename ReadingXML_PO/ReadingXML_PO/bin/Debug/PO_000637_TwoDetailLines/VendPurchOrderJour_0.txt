@@ -1,0 +1,23 @@
+Triangulation	1	No	
+OrderAccount	1	000001	
+Volume	1	0.02	
+PurchaseOrderVoucher	1	
+ExchRate	1	100.000000000000	
+Qty	1	2.00	
+ConfirmingPO	1	
+_DocumentHash	1	8052a320eb844190b50a9da1f7540db0	
+PurchOrderDate	1	2015-03-10	
+IsPrepay	1	No	
+PurchId	1	000637	
+AmountPurchaseOrder	1	Yes	
+InterCompanyPosted	1	No	
+SalesOrderbalance	1	40.95	
+PurchaseOrderId	1	000036	
+CountryRegionId	1	
+DeliveryName	1	Contoso Entertainment System USA	
+RecId	1	35637183640	
+Amount	1	40.95	
+PurchOrderDocNum	1	000637-1	
+Weight	1	0.10	
+ParmId	1	011071	
+RecVersion	1	1	
