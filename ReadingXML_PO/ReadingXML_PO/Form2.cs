@@ -300,7 +300,7 @@ namespace ReadingXML_PO
         private void button2_Click(object sender, EventArgs e)
         {
 
-            string[] strFiles = Directory.GetFiles(textBox1.Text);
+            string[] strFiles = Directory.GetFiles(textBox1.Text, "*.*", SearchOption.AllDirectories);
             DataTable objTable = new DataTable("Sheet");
             objTable.Columns.Add("FileName");
             objTable.Columns.Add("strODBC");
@@ -320,6 +320,8 @@ namespace ReadingXML_PO
             objTable.Columns.Add("listReadCsv");
             objTable.Columns.Add("listReadXls");
             objTable.Columns.Add("listQvw");
+            objTable.Columns.Add("Folder");
+            objTable.Columns.Add("Path");
             
 
 
@@ -847,6 +849,10 @@ namespace ReadingXML_PO
                     objSW.WriteLine("");
                 }
 
+                objDR[16] = Path.GetFileNameWithoutExtension(Path.GetDirectoryName(strFilePath));
+                objDR[17] = Path.GetDirectoryName(strFilePath);
+                
+
 
                 objSW.Close();
                 objTable.Rows.Add(objDR);
@@ -859,6 +865,58 @@ namespace ReadingXML_PO
 
         private void ExportDataSetToExcel(DataTable table)
         {
+
+            DataTable objTable = new DataTable("Final");
+            objTable.Columns.Add("SR. NO");
+            objTable.Columns.Add("Folder");
+            objTable.Columns.Add("Path");
+            objTable.Columns.Add("FileName");
+            objTable.Columns.Add("Access Denied(Y/N)");
+            objTable.Columns.Add("ODBC");
+            objTable.Columns.Add("ODBC String");
+            objTable.Columns.Add("OLEBD");
+            objTable.Columns.Add("OLEDB String");
+            objTable.Columns.Add("MS Access");
+            objTable.Columns.Add("Objects(Tables/Views)");
+            objTable.Columns.Add("Share Point");
+            objTable.Columns.Add("Folders");
+            objTable.Columns.Add("QVD Output");
+            objTable.Columns.Add("Output CSV");
+            objTable.Columns.Add("Output Excel");
+            objTable.Columns.Add("Input QVD");
+            objTable.Columns.Add("Input CSV");
+            objTable.Columns.Add("Input Excel");
+            objTable.Columns.Add("QVW Document");
+
+
+            foreach (DataRow objDR in table.Rows)
+            {
+                DataRow objFDR = objTable.NewRow();
+                objFDR["SR. NO"] = "";
+                objFDR["Folder"] = objDR["Folder"];
+                objFDR["Path"] = objDR["Path"];
+                objFDR["FileName"] = objDR["FileName"];
+                objFDR["Access Denied(Y/N)"] = "";
+                objFDR["ODBC"] = objDR["strODBC"];
+                objFDR["ODBC String"] = objDR["strODBCString"];
+                objFDR["OLEBD"] = objDR["strOLEBD"];
+                objFDR["OLEDB String"] = objDR["strConString"];
+                objFDR["MS Access"] = objDR["strAccessString"];
+                objFDR["Objects(Tables/Views)"] = objDR["listTable"];
+                objFDR["Share Point"] = objDR["listSharePoint"];
+                objFDR["Folders"] = objDR["listLet"];
+                objFDR["QVD Output"] = objDR["listWriteQvd"];
+                objFDR["Output CSV"] = objDR["listWriteCsv"];
+                objFDR["Output Excel"] = objDR["listWriteXls"];
+                objFDR["Input QVD"] = objDR["listReadQvd"];
+                objFDR["Input CSV"] = objDR["listReadCsv"];
+                objFDR["Input Excel"] = objDR["listReadXls"];
+                objFDR["QVW Document"] = objDR["listQvw"];
+
+                objTable.Rows.Add(objFDR);
+
+            }
+
 
             if (File.Exists(textBox2.Text))
             {
@@ -878,18 +936,20 @@ namespace ReadingXML_PO
 
 
             Excel.Worksheet excelWorkSheet = excelWorkBook.Sheets.Add();
-            excelWorkSheet.Name = table.TableName;
+            //excelWorkSheet.Name = table.TableName;
+            excelWorkSheet.Name = objTable.TableName;
 
-            for (int i = 1; i < table.Columns.Count + 1; i++)
+
+            for (int i = 1; i < objTable.Columns.Count + 1; i++)
             {
-                excelWorkSheet.Cells[1, i] = table.Columns[i - 1].ColumnName;
+                excelWorkSheet.Cells[1, i] = objTable.Columns[i - 1].ColumnName;
             }
 
-            for (int j = 0; j < table.Rows.Count; j++)
+            for (int j = 0; j < objTable.Rows.Count; j++)
             {
-                for (int k = 0; k < table.Columns.Count; k++)
+                for (int k = 0; k < objTable.Columns.Count; k++)
                 {
-                    excelWorkSheet.Cells[j + 2, k + 1] = table.Rows[j].ItemArray[k].ToString();
+                    excelWorkSheet.Cells[j + 2, k + 1] = objTable.Rows[j].ItemArray[k].ToString();
                 }
             }
 
